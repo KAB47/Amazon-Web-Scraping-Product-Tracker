@@ -6,7 +6,7 @@ An automated Python web scraping project that tracks the price of a Dell XPS 15 
 
 ## TL;DR
 
-Scrapes the title and price of a Dell XPS 15 (Or any Amazon product) listing on Amazon UK daily using BeautifulSoup and Requests, appends each reading to a CSV with a timestamp, and loops automatically every 24 hours to build a price history dataset.
+Scrapes the title and price of a Dell XPS 15 (Or any product) listing on Amazon daily using BeautifulSoup and Requests, appends each reading to a CSV with a timestamp, and loops automatically every 24 hours to build a price history dataset.
 
 ---
 
